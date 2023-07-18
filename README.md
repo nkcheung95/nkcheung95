@@ -1,0 +1,4 @@
+- 👀 I’m interested in developing free, opensource analysis tools for the analysis of human physiological data
+- 🌱 I’m currently learning R and R Shiny
+- 💞️ I’m looking to collaborate on development of physiology programs
+- 📫 How to reach me nkcheung@ualberta.ca
